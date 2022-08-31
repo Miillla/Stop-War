@@ -1,0 +1,25 @@
+{
+  "name": "stop-war",
+  "version": "1.0.0",
+  "private": true,
+  "description": "stop-war",
+  "author": "Miillla",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.21.1",
+    "gatsby-plugin-styled-components": "^5.21.0",
+    "react": "^18.1.0",
+    "react-content-loader": "^6.2.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  }
+}
